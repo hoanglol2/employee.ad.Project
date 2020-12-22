@@ -1,0 +1,32 @@
+/*style sheet custom*/
+
+
+
+.main {
+	background-color: #f7f9fa;
+	height: 100%;
+}
+.head-box {
+	height: 60px;
+	width: 100%;
+	background-color: #fff;
+}
+.head-box h3 {
+	font-size: 18px;
+    margin: 0;
+    line-height: 60px;
+}
+.content-box {
+	background-color: #fff;
+	margin-top: 32px;
+	width: 100%;
+	min-height: 303px;
+	padding: 20px;
+}
+.content-box h4 {
+	font-size: 16px;
+    margin: 0 0 7px 0;
+}
+.btn-add {
+	
+}
